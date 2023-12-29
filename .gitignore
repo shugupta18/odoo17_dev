@@ -1,3 +1,9 @@
+## custom 
+.idea/
+odoo/
+
+
+## Below were added because of default
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
