@@ -1,6 +1,7 @@
 ## custom 
 .idea/
 odoo/
+postgresSQL_scripts/
 
 
 ## Below were added because of default
